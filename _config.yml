@@ -1,16 +1,16 @@
-typography_spectrum: 0.9033106074202806
+typography_spectrum: 0.01029577967710793
 color:
-  brandStrength: 0.6782166140619665
-  lightness: 0.32788375578820705
-  saturation: 0.8784907800145447
-  rhythmicContrast: 0.0666392024140805
+  brandStrength: 0.14503246429376304
+  lightness: 0.9452399841975421
+  saturation: 0.6486841442529112
+  rhythmicContrast: 0.9900349478702992
   brandColors:
-    - '#FBFFFF'
-    - '#31322A'
-    - '#6E6754'
-    - '#D4E0E0'
-    - '#BAA276'
-layout_spectrum: 0.32023823191411793
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
+layout_spectrum: 0.13089731731452048
 name: aungupholstery
 title: Aung Upholstery
 description: 'aesthetics, details, and comfort'
