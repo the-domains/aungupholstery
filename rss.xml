@@ -4,8 +4,22 @@
         <description><![CDATA[Aung Upholstery]]></description>
         <link>http://aungupholstery.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 10:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 10:50:19 GMT</lastBuildDate>
         <atom:link href="http://aungupholstery.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cffecb4-5f46-4877-bbf1-0dfcb8d51799.jpg" alt="Bed Skirt">]]></description>
+            <link>http://aungupholstery.com/bed-skirt/index.html</link>
+            <guid isPermaLink="false">8495bb50-c84f-4a74-bdca-1f9fd6d96d79</guid>
+            <pubDate>Thu, 18 Aug 2016 10:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09444195-9a6c-4dbf-ac06-bfb153cb0439.jpg" alt="Bed Skirt with pleates">]]></description>
+            <link>http://aungupholstery.com/bed-skirt-with-pleates/index.html</link>
+            <guid isPermaLink="false">bf4e2110-124a-49ec-82d0-8fe01d92daaa</guid>
+            <pubDate>Thu, 18 Aug 2016 10:50:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f32e194-d673-4a37-a8d9-e7cb0dc8bace.jpg" alt="Window seats">]]></description>
@@ -61,20 +75,6 @@
             <link>http://aungupholstery.com/8790aa8e-422e-4c9a-941b-4222bf29383e/index.html</link>
             <guid isPermaLink="false">8790aa8e-422e-4c9a-941b-4222bf29383e</guid>
             <pubDate>Thu, 18 Aug 2016 10:49:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b75092b-aec1-4054-aa7c-090f70fb2ee4.jpg">]]></description>
-            <link>http://aungupholstery.com/d13e89e6-4330-4e62-953d-efd789c722d7/index.html</link>
-            <guid isPermaLink="false">d13e89e6-4330-4e62-953d-efd789c722d7</guid>
-            <pubDate>Thu, 18 Aug 2016 10:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/757ef5fa-1c51-4990-b38c-10a7cf4e9152.jpg">]]></description>
-            <link>http://aungupholstery.com/32e06de3-a409-44e1-b8e3-30091979479d/index.html</link>
-            <guid isPermaLink="false">32e06de3-a409-44e1-b8e3-30091979479d</guid>
-            <pubDate>Thu, 18 Aug 2016 10:49:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
