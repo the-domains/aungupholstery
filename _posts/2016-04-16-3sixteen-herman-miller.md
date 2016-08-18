@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-01T09:28:35.021Z'
+datePublished: '2016-08-18T10:07:03.852Z'
 sourcePath: _posts/2016-04-16-3sixteen-herman-miller.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,8 @@ keywords:
   - worn-in
 related: []
 author: []
-dateModified: '2016-08-01T09:28:33.419Z'
+via: {}
+dateModified: '2016-08-18T10:07:03.320Z'
 title: 3sixteen + Herman Miller
 app_links: []
 publisher:
@@ -34,10 +35,9 @@ description: >-
   commitment to inspiring through timeless, dependable design.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>3sixteen + Herman Miller</h1><p>LES-based raw denim fiends 3sixteen advocate skilled craftsmanship and longevity-which is why they often post photos of their customers' faded, worn-in jeans after years of use. Thus, their special collaboration with design manufacturer Herman Miller makes perfect sense, as there's a shared commitment to inspiring through timeless, dependable design.</p><img src="http://assets.coolhunting.com/coolhunting/2015/12/09/large_3sixteen-herman-miller-thub.jpg" /></article>
+![Coral Throw pillows Collection designed and made by Aung](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fe5d1c7-ed59-4576-96eb-a5f72e4b9af2.jpg)
