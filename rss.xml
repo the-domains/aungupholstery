@@ -4,8 +4,15 @@
         <description><![CDATA[Aung Upholstery]]></description>
         <link>http://aungupholstery.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 10:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 10:50:22 GMT</lastBuildDate>
         <atom:link href="http://aungupholstery.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e53569f-31cb-4e7f-bc9c-6906f00879ce.jpg" alt="Barrel chair">]]></description>
+            <link>http://aungupholstery.com/barrel-chair/index.html</link>
+            <guid isPermaLink="false">ae02ab96-b2fd-4727-a02c-7abb4ee6f9bc</guid>
+            <pubDate>Thu, 18 Aug 2016 10:50:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cffecb4-5f46-4877-bbf1-0dfcb8d51799.jpg" alt="Bed Skirt">]]></description>
@@ -68,13 +75,6 @@
             <link>http://aungupholstery.com/15eff072-d980-4c91-aef6-571463d19541/index.html</link>
             <guid isPermaLink="false">15eff072-d980-4c91-aef6-571463d19541</guid>
             <pubDate>Thu, 18 Aug 2016 10:49:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd544b17-6e5c-411d-992f-c7a5eb5001bf.jpg">]]></description>
-            <link>http://aungupholstery.com/8790aa8e-422e-4c9a-941b-4222bf29383e/index.html</link>
-            <guid isPermaLink="false">8790aa8e-422e-4c9a-941b-4222bf29383e</guid>
-            <pubDate>Thu, 18 Aug 2016 10:49:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
