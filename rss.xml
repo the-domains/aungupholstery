@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Aung Upholstery]]></title>
         <description><![CDATA[Aung Upholstery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://aungupholstery.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 10:47:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 10:47:57 GMT</lastBuildDate>
+        <atom:link href="http://aungupholstery.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88200ae2-ac6c-49f4-993b-b14a27bfd0d9.jpg">]]></description>
+            <link>http://aungupholstery.com/c9809f9d-322a-4658-8697-1a997efa9330/index.html</link>
+            <guid isPermaLink="false">c9809f9d-322a-4658-8697-1a997efa9330</guid>
+            <pubDate>Thu, 18 Aug 2016 10:47:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/342d732a-0e37-4a72-bb2e-6cf6e04213bb.jpg">]]></description>
-            <link>undefined159161b1-f1a5-47dd-8d58-3c3498804088/index.html</link>
+            <link>http://aungupholstery.com/159161b1-f1a5-47dd-8d58-3c3498804088/index.html</link>
             <guid isPermaLink="false">159161b1-f1a5-47dd-8d58-3c3498804088</guid>
             <pubDate>Thu, 18 Aug 2016 10:47:39 GMT</pubDate>
         </item>
