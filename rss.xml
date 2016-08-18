@@ -4,8 +4,15 @@
         <description><![CDATA[Aung Upholstery]]></description>
         <link>http://aungupholstery.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 10:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 10:50:45 GMT</lastBuildDate>
         <atom:link href="http://aungupholstery.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e281dc4b-9131-4f9e-beb4-a5b227104faa.jpg" alt="Teak wood dining chair with contract quality vinyl and enhance the finished look with upholstery decorative tacks">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8662e2b3-6e4e-4bc1-adaa-d2e8b74e26ed.jpg</link>
+            <guid isPermaLink="false">9780edbb-ebe7-4e56-922c-ac52b935309c</guid>
+            <pubDate>Thu, 18 Aug 2016 10:50:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cab6255-936f-4409-ad6d-a5d51c57e88e.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://aungupholstery.com/bed-skirt/index.html</link>
             <guid isPermaLink="false">8495bb50-c84f-4a74-bdca-1f9fd6d96d79</guid>
             <pubDate>Thu, 18 Aug 2016 10:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09444195-9a6c-4dbf-ac06-bfb153cb0439.jpg" alt="Bed Skirt with pleates">]]></description>
-            <link>http://aungupholstery.com/bed-skirt-with-pleates/index.html</link>
-            <guid isPermaLink="false">bf4e2110-124a-49ec-82d0-8fe01d92daaa</guid>
-            <pubDate>Thu, 18 Aug 2016 10:50:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
