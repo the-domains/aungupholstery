@@ -4,15 +4,8 @@
         <description><![CDATA[Aung Upholstery]]></description>
         <link>http://aungupholstery.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 10:50:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 10:50:09 GMT</lastBuildDate>
         <atom:link href="http://aungupholstery.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a9e3d57-fd73-4294-b244-960197d28f49.jpg">]]></description>
-            <link>http://aungupholstery.com/7ce07432-0f58-4a32-bf3e-bf29a204d1ba/index.html</link>
-            <guid isPermaLink="false">7ce07432-0f58-4a32-bf3e-bf29a204d1ba</guid>
-            <pubDate>Thu, 18 Aug 2016 10:50:01 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d546d24e-da94-4be5-9e69-f6110796ce02.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>http://aungupholstery.com/08a7a994-c598-468e-8913-afd24df6d724/index.html</link>
             <guid isPermaLink="false">08a7a994-c598-468e-8913-afd24df6d724</guid>
             <pubDate>Thu, 18 Aug 2016 10:48:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57c65277-93da-402b-bf66-abbe9eae0a5a.jpg" alt="change new burlap and Sew edge roll onto seat deck before adding padding layer.">]]></description>
+            <link>http://aungupholstery.com/change-new-burlap-and-sew-edge-roll-onto-seat-deck-before-ad/index.html</link>
+            <guid isPermaLink="false">404528ce-90f7-4cbf-8629-fcc086cf9189</guid>
+            <pubDate>Thu, 18 Aug 2016 10:48:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
